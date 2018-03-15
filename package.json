@@ -22,7 +22,6 @@
   "bugs": {
     "url": "https://github.com/instriker/bug-angular-aot-lib-1/issues"
   },
-  "private": true,
   "scripts": {
     "start": "gulp build",
     "test": " gulp test",
