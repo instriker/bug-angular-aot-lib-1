@@ -1,0 +1,33 @@
+{
+  "generator-ngx-library": {
+    "version": "5.4.0",
+    "authorName": "Alexandre Emond",
+    "authorEmail": "",
+    "githubUsername": "instriker",
+    "githubRepoName": "bug-angular-aot-lib-1",
+    "projectName": "@instriker-demo/demolibraryforaot",
+    "projectVersion": "0.0.1",
+    "projectDescription": "Sample Angular library built using ngx-library yeoman generator to demonstrate an AOT bug.",
+    "projectKeywords": [
+      "ng",
+      "angular",
+      "library",
+      "aot",
+      "bug"
+    ],
+    "ngVersion": "5.0.0",
+    "ngModules": [
+      "core",
+      "common"
+    ],
+    "otherDependencies": [],
+    "dependenciesRange": "^",
+    "ngPrefix": "my-lib",
+    "useGreenkeeper": false,
+    "useCompodoc": false,
+    "enforceNgGitCommitMsg": false,
+    "exclusions": [
+      "demo/proxy.conf.json"
+    ]
+  }
+}
