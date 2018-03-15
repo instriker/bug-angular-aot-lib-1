@@ -1,7 +1,7 @@
 {
   "name": "@instriker-demo/demolibraryforaot",
   "description": "Sample Angular library built using ngx-library yeoman generator to demonstrate an AOT bug.",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "homepage": "https://github.com/instriker/bug-angular-aot-lib-1",
   "author": {
     "name": "Alexandre Emond",
