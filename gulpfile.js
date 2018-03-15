@@ -73,7 +73,7 @@ const argv = yargs
   .argv;
 
 const config = {
-  libraryName: 'demolibraryforaot',
+  libraryName: '@instriker/demolibraryforaot',
   unscopedLibraryName: 'demolibraryforaot',
   allSrc: 'src/**/*',
   allTs: 'src/**/!(*.spec).ts',
