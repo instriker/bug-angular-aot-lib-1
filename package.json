@@ -1,7 +1,7 @@
 {
   "name": "@instriker/demolibraryforaot",
   "description": "Sample Angular library built using ngx-library yeoman generator to demonstrate an AOT bug with barrel files.",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "homepage": "https://github.com/instriker/bug-angular-aot-lib-1",
   "author": {
     "name": "Alexandre Emond",
