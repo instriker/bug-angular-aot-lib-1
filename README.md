@@ -15,14 +15,15 @@ npm install --save @instriker-demo/demolibraryforaot
 ## Usage
 
 ```typescript
-import { SimpleCoreComponent } from '@instriker-demo/demolibraryforaot';
+import { SimpleCoreComponent1 } from '@instriker-demo/demolibraryforaot';
+import { SimpleCoreComponent2 } from '@instriker-demo/demolibraryforaot';
 
 @Component({
   selector: 'app-sample',
   templateUrl: './sample.component.html',
   styleUrls: ['./sample.component.css']
 })
-export class SampleComponent extends SimpleCoreComponent {
+export class SampleComponent extends SimpleCoreComponent1 {
 }
 ```
 
